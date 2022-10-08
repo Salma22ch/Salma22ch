@@ -1,6 +1,7 @@
 - 👋 Hi, I’m salma chana
 - 👀 I’m interested in Web/Mobile/VR developement
 - 🌱 I’m currently learning Data visualisation
+- 💻 My personal website: https://salma22ch.github.io
 - 📫 How to reach me : salmachana219@gmail.com
 
 <!---
